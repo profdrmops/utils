@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 
 namespace Utils
 {
-    public static class WebJsonHelper
+    public static class HttpJson
     {
         #region Requests
 
