@@ -48,8 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Crypto.cs" />
+    <Compile Include="HttpJson.cs" />
     <Compile Include="Types.cs" />
-    <Compile Include="WebJsonHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
